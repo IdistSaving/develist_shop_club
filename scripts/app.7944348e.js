@@ -38,9 +38,9 @@ angular
 
   // Initialize Function Seciton
   $rootScope.initialize = function() {
-    // $resource('json/club.json').get({}, function(service) {
+    $resource('json/club.json').get({}, function(service) {
     // $resource('json/nail.json').get({},function(service){
-    $resource('json/readingRoom.json').get({},function(service){
+    // $resource('json/readingRoom.json').get({},function(service){
       $rootScope.service = service;
 
     });
