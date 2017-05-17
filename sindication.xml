@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://webmastertool.naver.com">
+  <id>http://club.develist.com</id>
+  <title><![CDATA[ 클럽 솔루션 ]]></title>
+  <author>
+    <name>클럽 솔루션</name>
+  </author>
+
+  <updated>2016-10-21T19:54:15+09:00</updated>
+  <link rel="site" href="http://club.develist.com" />
+
+
+  <entry>
+    <id>http://club.develist.com/landing/</id>
+    <title><![CDATA[ 클럽 솔루션 ]]></title>
+    <author>
+      <name>클럽 솔루션</name>
+    </author>
+    <updated>2016-10-13T00:00:00+09:00</updated>
+    <published>2016-10-13T00:00:00+09:00</published>
+    <link rel="via" href="http://club.develist.com/landing/" />
+      <content type="html">
+        <![CDATA[
+        &lt;p&gt;클럽 웹사이트를 PC 버전과 클럽 모바일버전으로!&lt;br /&gt;
+        SNS 자동 소통 프로그램으로 웹사이트부터 홍보까지 한방에 !
+        부담은 적지만 효과는 확실한 클럽 맞춤 솔루션을 지금 만나보세요.&lt;br /&gt;]]>
+      </content>
+  </entry>
+</feed>

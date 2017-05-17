@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>클럽 솔루션</title>
+    <link>http://club.develist.com</link>
+    <description>클럽사이트제작,실시간클럽예약현황,클럽모바일웹,반응형클럽사이트</description>
+    <language>ko</language>
+    <pubDate>Wed, 17 May 2017 19:54:15 +0900</pubDate>
+    <generator>Jekyll v3.2.1</generator>
+    <managingEditor>클럽 솔루션</managingEditor>
+
+    <item>
+      <title>클럽 솔루션</title>
+      <link>http://club.develist.com/</link>
+
+      	<description>
+          &lt;p&gt;클럽 웹사이트를 PC 버전과 클럽 모바일버전으로!&lt;br /&gt;
+          SNS 자동 소통 프로그램으로 웹사이트부터 홍보까지 한방에 !
+          부담은 적지만 효과는 확실한 클럽 맞춤 솔루션을 지금 만나보세요.&lt;br /&gt;
+        </description>
+
+       <category>posts/</category>
+      <guid>http://club.develist.com/landing/</guid>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
