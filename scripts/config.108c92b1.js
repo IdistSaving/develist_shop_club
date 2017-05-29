@@ -8,5 +8,5 @@ angular.module('shopApp')
       // LANDING
       .state('landing', { url: '/', templateUrl: 'views/landing/landing.html', controller: 'LandingCtrl', group: 'landing' })
 
-    $urlRouterProvider.otherwise('/landing');
+    $urlRouterProvider.otherwise('/');
   });
